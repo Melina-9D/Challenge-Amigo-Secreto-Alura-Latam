@@ -15,6 +15,9 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 - **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
 
+- **Nota para la ejecución local: El proyecto no requiere alguna instalación adicional. Solo abre el archivo `index.html` en tu navegador y ¡puedes comenzar a utilizarlo!
+
+
 ![image](https://github.com/user-attachments/assets/dddab4be-f349-4f24-8cac-cf6876d6516f)
 
 
