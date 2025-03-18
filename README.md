@@ -4,21 +4,19 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 ## ¿Como utilizar?
 
-✍️**Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
+**Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
 
-   ![Agregar nombre]
 
-- ❗**Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
+- **Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre que sea válido.
 
-   ![Alerta de validación]
 
-- 👀**Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
+- **Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
 
-   ![Lista de nombres]
 
-- 🎲**Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
+- **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
 
-   ![Resultado sorteo]
+![image](https://github.com/user-attachments/assets/dddab4be-f349-4f24-8cac-cf6876d6516f)
+
 
 ## Este proyecto fue construido con:
 
